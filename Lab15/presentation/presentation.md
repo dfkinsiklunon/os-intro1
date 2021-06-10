@@ -39,15 +39,15 @@ section-titles: true
 
 ## Выполнение Работы
 
-![server](15.5.jpg)
+![server](15.5.png)
 
 ## Выполнение Работы
 
-![client1](15.6.jpg)
+![client1](15.6.png)
 
 ## Выполнение Работы
 
-![client2](15.6.jpg)
+![client2](15.6.png)
 
 ## Выполнение Работы
 
